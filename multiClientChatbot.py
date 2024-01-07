@@ -1,8 +1,3 @@
-#pip install pandas
-#pip install openpyxl
-#pip install openai
-
-
 import os
 import pandas as pd
 import numpy as np
