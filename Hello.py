@@ -24,7 +24,7 @@ def run():
         page_icon="👋",
     )
 
-    st.write("# Welcome to Streamlit! 👋")
+    st.write("API KEY:", st.secrets["API_KEY"])
 
     st.sidebar.success("Select a demo above.")
 
